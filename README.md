@@ -138,8 +138,10 @@ Add your dashboard screenshot here
 
 <img width="1600" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/2dbf4390-246f-4901-b090-5f2b44fc77d0" />
 
-The dataset contains:
-Data set: 
+
+
+# The dataset contains:
+Data set: https://github.com/Sapna-tech21/Pizza-sales-analysis-excel-sql/blob/main/Pizza_data.xlsx
 
 
 # Project Outcome
